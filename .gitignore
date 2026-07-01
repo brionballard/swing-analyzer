@@ -22,3 +22,7 @@ public/models/
 
 # Build info
 *.tsbuildinfo
+
+# Allow sample swing videos to be committed (exception to any video ignores)
+!samples/
+!samples/**
